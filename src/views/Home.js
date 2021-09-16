@@ -39,7 +39,7 @@ export const HomeMedico = () => {
     let dados = [];
     return new Promise((resolve, reject) => {
       // Faz a requisição HTTP
-      let fetchResponse = http.get(process.env.REACT_APP_API_URL,
+      let fetchResponse = http.get(`${process.env.REACT_APP_API_URL}/paciente`,
         async (response) => {
           response.on("data", (dad) => {
             dados = JSON.parse(dad);
