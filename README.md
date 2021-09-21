@@ -16,7 +16,7 @@ yarn versão 1.22.11
 -> Execute o Comando <b>yarn init</b> ou <b>yarn install</b>, para baixar as dependências
 
 ### GitHub
--> Faça o Clone da Aplicação\
+-> Faça o Clone da Aplicação, pelo link: https://github.com/dlucasafj/cliente-medico.git  \
 -> Execute o Comando yarn install, para baixar as dependências
 
 
