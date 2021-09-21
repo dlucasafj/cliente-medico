@@ -24,4 +24,8 @@ yarn versão 1.22.11
 
 -> Execute o comando <b>yarn start</b>. Irá abrir uma página no navegador no endereço [http://localhost:3000](http://localhost:3000)
 
+## Deploy
 
+Foi feito o deploy da aplicação no provedor de serviços Heroku
+
+Para acessar a aplicação só acessar o link: http://cliente-medico.herokuapp.com/
